@@ -1,0 +1,11 @@
+name,type,lat,lon,capacity_MW
+Golfech,Nuclear,44.083,0.846,2620
+Cap-de-Long,Hydro,42.833,0.104,150
+Odeillo Solar Furnace,Solar,42.504,2.037,1
+Parc éolien de Névian,Wind,43.187,2.894,18
+Parc éolien du Razès,Wind,43.2,2.1,30
+Barrage de Puylaurent,Hydro,44.601,3.885,85
+Centrale solaire de Laïs,Solar,43.435,2.153,12
+Parc éolien de Bélesta,Wind,42.74,2.53,24
+Barrage de Montbel,Hydro,42.958,1.902,10
+Centrale biomasse de Toulouse,Biomass,43.6,1.44,5
